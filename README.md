@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a student at Epitech and everyday everyday i learn new things
+I'm a student at Epitech and everyday i learn new things
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neyross&theme=tokyonight&layout=compact&title_color=b81d9b)](https://github.com/anuraghazra/github-readme-stats)
 
